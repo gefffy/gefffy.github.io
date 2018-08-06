@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: Piriformis Problems
 ---
 Here's a great YouTube [video](https://www.youtube.com/watch?v=Lli_rI4Dj0Y) for working on the piriformis.
