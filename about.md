@@ -8,6 +8,8 @@ I'm a super first year med student who is hoping to go into an active specialty 
 
 ### Contact me
 
-I currently have nothing setup for an email because I'm trying to be discrete :)
+I currently have nothing setup for an email
+
+Feel free to comment on any posts and I'll reply
 
 [email@domain.com](mailto:email@domain.com)
