@@ -21,3 +21,4 @@ much better even distribution of pressure over the entire foot. I recommend you 
 
 ![image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585310/bin/pone.0057209.g003.jpg)
 
+### Still in progress --- check back later for more
