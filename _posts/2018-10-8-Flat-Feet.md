@@ -19,5 +19,5 @@ populations. For instance [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC35
 pressure distribution between Dutch and Malawian adults. What they found is that Malawians had an overall lower arch, but had a
 much better even distribution of pressure over the entire foot. I recommend you read the whole article, summarizing it isn't a good idea.
 
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585310/bin/pone.0057209.g003.jpg)
+[image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585310/bin/pone.0057209.g003.jpg)
 
