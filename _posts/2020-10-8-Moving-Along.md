@@ -1,5 +1,5 @@
 ---
-layout:Post
-title:Progress
+layout: Post
+title: Progress
 
 Trying to figure out how to make blog posts again
